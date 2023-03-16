@@ -6,7 +6,7 @@ I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
 
 **About me**
 
-- A student at [AMSS](http://www.amss.ac.cn//)
+- A student in [AMSS](http://www.amss.ac.cn//)
 
 - ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕！
 
