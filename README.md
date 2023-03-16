@@ -26,10 +26,7 @@ I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=fffmath.github.io&theme=buefy" />
 </a>
 
 <br />
