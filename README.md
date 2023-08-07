@@ -24,15 +24,15 @@ I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/fffmath/homepage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=homepage&theme=buefy" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/fffmath/useful-link">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=useful-link&theme=buefy" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/fffmath/theorem-you-must-know">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=theorem-you-must-know&theme=buefy" />
 </a>
 <picture>
