@@ -10,7 +10,7 @@ I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
 
 - ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕！
 
-- 📖 You can find more about me [here](https://fffmath.github.io)
+- 📖 You can find more about me [here](https://www.fffmath.com)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -24,9 +24,16 @@ I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
 
 #### Top Repositories
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=homepage&theme=buefy" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=fffmath.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=useful-link&theme=buefy" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=theorem-you-must-know&theme=buefy" />
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fffmath/fffmath/output/github-contribution-grid-snake-dark.svg">
