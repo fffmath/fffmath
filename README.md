@@ -1,12 +1,8 @@
 <p align="center"><a href="https://fffmath.github.io"><img width="80%" alt="Hello, I'm fffmath. Welcome!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+### Hey, guys 👋
 
-I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
-
-**About me**
-
-- A student in [AMSS](http://www.amss.ac.cn//),CAS.
+- I'm a graduate student@[AMSS](http://www.amss.ac.cn//) majoring in mathematics/cryptography from China 🇨🇳.
 
 - ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕.
 
