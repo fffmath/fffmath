@@ -6,18 +6,16 @@ I'm a graduate student majoring in mathematics/cryptography from China 🇨🇳.
 
 **About me**
 
-- A student in [AMSS](http://www.amss.ac.cn//)
+- A student in [AMSS](http://www.amss.ac.cn//),CAS.
 
-- ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕！
+- ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕.
 
-- 📖 You can find more about me [here](https://www.fffmath.com)
+- 📖 You can find more about me in my website.
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<font color="DarkOrchid">  [Website](https://www.fffmath.com) | [CV](https://www.fffmath.com/file/mycv.pdf) | [Scholar](https://www.fffmath.com) | [Twitter](https://twitter.com/fffmath_crypto) | [Linkedin](https://www.www.fffmath.com)</font>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fffmath&label=Profile%20views&color=b46cff&style=plastic" alt="fffmath" /> </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fffmath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffmath&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
