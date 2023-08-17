@@ -17,11 +17,6 @@
 | ------------- | ------------- |
 
 #### Top Repositories
-
-<a href="https://github.com/fffmath/homepage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=homepage&theme=buefy" />
-</a>
-
 <a href="https://github.com/fffmath/useful-link">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fffmath&repo=useful-link&theme=buefy" />
 </a>
