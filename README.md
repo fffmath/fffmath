@@ -2,7 +2,7 @@
 
 ### Hey, guys 👋
 
-- I'm a graduate student@[AMSS](http://www.amss.ac.cn//) majoring in mathematics/cryptography from China 🇨🇳.
+- I'm a phd student@[AMSS](http://www.amss.ac.cn//) majoring in mathematics/cryptography from China 🇨🇳.
 
 - ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕.
 
