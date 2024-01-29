@@ -13,8 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fffmath&label=Profile%20views&color=b46cff&style=plastic" alt="fffmath" /> </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fffmath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffmath&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fffmath/fffmath/output/github-contribution-grid-snake-dark.svg">
