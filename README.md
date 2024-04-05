@@ -8,7 +8,7 @@
 
 - 📖 You can find more about me in my website.
 
-<font color="DarkOrchid">  [Website](https://www.fffmath.com) | [CV](https://www.fffmath.com/assets/pdf/mycv.pdf) | [Scholar](https://www.fffmath.com) | [Twitter](https://twitter.com/fffmath_crypto) | [Linkedin](https://www.www.fffmath.com)</font>
+<font color="DarkOrchid">  [Website](https://www.fffmath.com) | [CV](https://www.fffmath.com/assets/pdf/mycv.pdf) | [Scholar](https://scholar.google.com/citations?user=mO_Dkx8AAAAJ) | [dblp](https://dblp.org/pid/25/2643-1) | [Twitter](https://twitter.com/fffmath_crypto)</font>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fffmath&label=Profile%20views&color=b46cff&style=plastic" alt="fffmath" /> </p>
