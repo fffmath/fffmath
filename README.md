@@ -1,24 +1,33 @@
-<p align="center"><a href="https://fffmath.github.io"><img width="80%" alt="Hello, I'm fffmath. Welcome!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">
+  Yansong Feng <code>@fffmath</code>
+</h1>
+
 
 ### Hey, guys 👋
 
-- I'm a phd student@[AMSS](http://www.amss.ac.cn//) majoring in mathematics/cryptography from China 🇨🇳.
+- I'm **Yansong Feng**, a Ph.D. student at [AMSS](http://www.amss.ac.cn/) and an **AI4Crypto Research Intern** at [MiniMax](https://www.minimax.io/).
 
-- ❤️ I love music 🎵, running 🏃‍♀️ and dinos 🦕.
+- 🔐 My research focuses on **algorithmic number theory** and **combinatorics**, with applications to **cryptography** and **theoretical computer science**.
 
-- 📖 You can find more about me in my website.
+- 🤖 Recently, I'm also interested in **AI for security** and **AI-assisted formal verification**.
 
-<font color="DarkOrchid">  [Website](https://www.fffmath.com) | [CV](https://www.fffmath.com/assets/pdf/mycv.pdf) | [Scholar](https://scholar.google.com/citations?user=mO_Dkx8AAAAJ) | [DBLP](https://dblp.org/pid/25/2643-1) | [Twitter](https://twitter.com/fffmath_crypto)</font>
+- ❤️ I love music 🎵, running 🏃‍♀️, and dinos 🦕.
 
+- 🎓 I expect to graduate in **2027** and am seeking full-time opportunities in industry or as a postdoctoral researcher. Feel free to contact me!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fffmath&label=Profile%20views&color=b46cff&style=plastic" alt="fffmath" /> </p>
+- 📖 You can find more about me and my research on my website.
 
+<p align="center">
+  <a href="https://www.fffmath.com">Website</a> •
+  <a href="https://www.fffmath.com/assets/pdf/mycv.pdf">CV</a> •
+  <a href="https://scholar.google.com/citations?user=mO_Dkx8AAAAJ">Google Scholar</a> •
+  <a href="https://dblp.org/pid/25/2643-1">DBLP</a> •
+  <a href="https://twitter.com/fffmath_crypto">Twitter</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fffmath/fffmath/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fffmath/fffmath/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fffmath/fffmath/output/github-contribution-grid-snake.svg">
-</picture>
-<br />
-<br />
-
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=fffmath&label=Profile%20views&color=b46cff&style=plastic"
+    alt="fffmath profile views"
+  />
+</p>
